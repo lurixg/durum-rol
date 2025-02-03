@@ -1,0 +1,35 @@
+{
+  "name": "Durum-rol",
+  "version": "1.0.0",
+  "description": "Bu bot bir kullanıcının durumunu inceler ve belirli duruma göre rol verir.",
+  "main": "lurixdd.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node lurixdd.js"
+  },
+  "keywords": [
+    "Discord",
+    "discord.js",
+    "javascript",
+    "github",
+    "open-source",
+    "status",
+    "statuses",
+    "roles",
+    "role",
+    "giverole",
+    "example",
+    "giveaway",
+    "requirement",
+    "giveaway requirement",
+    "bot",
+    "discord bot",
+    "discord.js bot github",
+    "discord.js bot"
+  ],
+  "author": "ZiroCore",
+  "license": "ISC"
+}

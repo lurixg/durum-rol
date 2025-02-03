@@ -1,0 +1,13 @@
+{
+  "bot": {
+    "token": ""
+  },
+  "status": {
+    "anystatus": false,
+    "statustext": "Luri X Github",
+    "roletogiveid": "rolid"
+  },
+  "options": {
+  "consolelogs": true
+  }
+}
